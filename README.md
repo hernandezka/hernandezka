@@ -1,3 +1,11 @@
+# Karla Hernandez A
+
+Welcome to my GitHub repository. Here you will mostly find projects that I have worked on for testing purposes. Most of my recent projects are private.
+
+[![Karla's GitHub stats](https://github-readme-stats.vercel.app/api?username=hernandezka&show_icons=true&layout=compact&theme=dark)](https://github.com/hernandezka)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hernandezka&layout=compact&theme=dark)](https://github.com/hernandezka)
+
 ### Hi there 👋
 
 <!--
